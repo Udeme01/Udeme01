@@ -24,19 +24,14 @@ I enjoy **helping beginners grow**, breaking down complex concepts into easy exp
 ---
 
 ## 📫 How to Reach Me
-- Email: **your email here**  
-- LinkedIn: **your link here**  
-- Twitter: **your link here**  
+- Email: **emmanueludeme.fe@gmail.com**  
+- LinkedIn: **www.linkedin.com/in/emmanuel-udeme**  
+- Twitter: **https://x.com/0xKather**  
 
 ---
 
-## Pronouns  
-He/Him  
-
----
-
-## ⚡ Fun Fact  
-I Love Watching Movies
+## 👩‍💼 Pronouns  
+He/Him
 
 ---
 
@@ -51,17 +46,18 @@ I Love Watching Movies
 ## 📌 Featured Projects  
 Here are a few things I’ve built (add links later):
 
-- 🌐 **Project Name** — short description here  
-- 📱 **Project Name** — short description here  
-- 🛠 **Project Name** — short description here  
+- 🌐 **[Ace Leadership](https://ace-leadership-hub.vercel.app/)**
+- 📱 **[FizzAura Luxury](https://fizzauraluxury.com/)**  
+- 🛠 **[FaposWestAfrica](https://faposwestafrica.vercel.app/)**
+- 🛠 **[Fitin Fashion](https://fitin-brand.vercel.app/)**
 
 ---
 
 ## 🤝 Let’s Connect
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="www.linkedin.com/in/emmanuel-udeme"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/0xKather"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.instagram.com/the_quietdev"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
 ---
