@@ -50,6 +50,7 @@ Here are a few things I’ve built (add links later):
 - 📱 **[FizzAura Luxury](https://fizzauraluxury.com/)**  
 - 🛠 **[FaposWestAfrica](https://faposwestafrica.vercel.app/)**
 - 🛠 **[Fitin Fashion](https://fitin-brand.vercel.app/)**
+- 🛠 **[Beauty Lounge By Ashabi](https://beautyloungebyashabi.vercel.app/)**
 
 ---
 
