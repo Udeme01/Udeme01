@@ -46,7 +46,7 @@ He/Him
 ## 📌 Featured Projects  
 Here are a few things I’ve built (add links later):
 
-- 🌐 **[Ace Leadership](https://ace-leadership-hub.vercel.app/)**
+- 🌐 **[Ace Leadership](https://aceleadership.vercel.app/)**
 - 📱 **[FizzAura Luxury](https://fizzauraluxury.com/)**  
 - 🛠 **[FaposWestAfrica](https://faposwestafrica.vercel.app/)**
 - 🛠 **[Fitin Fashion](https://fitin-brand.vercel.app/)**
