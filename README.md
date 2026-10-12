@@ -18,10 +18,10 @@ I also love **helping beginners grow**. I break down complex ideas into simple e
 
 ## 🏗️ What I've Built
 
-- 🎓 **Ace Leadership Hub**: production EdTech platform with role-based access control, admin tooling and Paystack payments with signature-verified webhooks (Next.js, TypeScript, Supabase, PostgreSQL)
+- 🎓 **Ace Leadership Hub**: production EdTech platform with role-based access control, admin tooling and Paystack payments with signature-verified webhooks (Next.js, TypeScript, Supabase, PostgreSQL). The client has since come back with plans to evolve it into an NGO-focused platform, and I'm working with them on the next phase.
 - 🛍️ **FizzAura Luxury**: admin dashboard with real-time orders, revenue and product tracking, built with React, Vite and Supabase
 - ✅ **GlobalVerifyHQ**: live PHP/MySQL verification platform: API integrations, notifications and production fixes
-- 📱 Cross-platform mobile apps with Flutter and React Native
+- 📱 Cross-platform mobile apps(PEBLO APP) with Flutter and React Native
 
 ## 🛠️ Tech Stack
 
