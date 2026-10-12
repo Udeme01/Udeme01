@@ -29,7 +29,7 @@ I also love **helping beginners grow**. I break down complex ideas into simple e
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,php,mysql,postgres,supabase,firebase,git,github,vercel,flutter,figma" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=Udeme01&theme=dark&hide_border=false&border_radius=8&background=151515&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="Emmanuel's GitHub streak" />
 </p>
 
