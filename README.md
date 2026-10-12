@@ -1,64 +1,42 @@
-<!--
-**Udeme01/Udeme01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <h1 align="center">Hey there 👋, I'm Emmanuel Udeme</h1>
-<h3 align="center">Frontend-Heavy Full-Stack Engineer | Community Builder | Tech Educator</h3>
+
+<h3 align="center">Full-Stack Software Engineer | Payments & Fintech | Community Builder</h3>
 
 ---
 
-## 🌟 About Me  
-💡 I’m a **Frontend-Heavy Full-Stack Engineer** passionate about building digital experiences and solutions that leave a lasting impression and deliver real results.  
+## 💡 About Me
 
-I enjoy **helping beginners grow**, breaking down complex concepts into easy explanations, and improving myself through continuous learning and building.  
+I'm a full-stack engineer who builds API-driven products: admin dashboards, authentication systems and payment flows that handle real money and real users. I work across Next.js, React, Node.js, PHP and PostgreSQL/MySQL, and I enjoy taking a feature from requirement to production.
 
-🛠 **Founder of Genesis Lab** — an upcoming community where beginners learn by building real-world projects consistently.
+I also love **helping beginners grow**. I break down complex ideas into simple explanations, and I'm building **Genesis Lab**, a community where beginners learn by building real-world projects.
 
----
+## 🚀 What I'm Working On
 
-## 🚀 What I’m Working On
-- 🔭 Growing **Genesis Lab**, a community for beginners to build more while learning.
-- 🎯 Improving how beginners understand frontend fundamentals.
-- 🛠 Expanding my full-stack knowledge with modern tools & best practices.  
+- 💳 Going deeper into **fintech and payment systems**: webhooks, idempotency, transaction status syncing and secure verification
+- 🛠️ Growing **Genesis Lab**, a community for beginners to build while learning
+- 🔧 Expanding my backend skills (APIs, databases, security) alongside modern frontend tools
 
----
+## 🏗️ What I've Built
 
-## 📫 How to Reach Me
-- Email: **emmanueludeme.fe@gmail.com**  
-- LinkedIn: **www.linkedin.com/in/emmanuel-udeme**  
-- Twitter: **https://x.com/0xKather**  
+- 🎓 **Ace Leadership Hub**: production EdTech platform with role-based access control, admin tooling and Paystack payments with signature-verified webhooks (Next.js, TypeScript, Supabase, PostgreSQL)
+- 🛍️ **FizzAura Luxury**: admin dashboard with real-time orders, revenue and product tracking, built with React, Vite and Supabase
+- ✅ **GlobalVerifyHQ**: live PHP/MySQL verification platform: API integrations, notifications and production fixes
+- 📱 Cross-platform mobile apps with Flutter and React Native
 
----
+## 🛠️ Tech Stack
 
-## 👩‍💼 Pronouns  
-He/Him
-
----
-
-## 🛠 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui,nodejs,express,mongodb,git,github,vscode,figma" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,php,mysql,postgres,supabase,firebase,git,github,vercel,flutter,figma" />
 </p>
 
----
+## 📌 Featured Projects
 
-## 📌 Featured Projects  
-Here are a few things I’ve built (add links later):
+- 🎓 [Ace Leadership Hub]([LINK](https://aceleadershiphub.com/)): EdTech platform with payments and RBAC
+- 🛍️ [FizzAura Luxury]([LINK](https://fizzauraluxury.com/)): e-commerce admin dashboard
 
-- 🌐 **[Ace Leadership](https://aceleadership.vercel.app/)**
-- 📱 **[FizzAura Luxury](https://fizzauraluxury.com/)**  
-- 🛠 **[FaposWestAfrica](https://faposwestafrica.vercel.app/)**
-- 🛠 **[Fitin Fashion](https://fitin-brand.vercel.app/)**
-- 🛠 **[Beauty Lounge By Ashabi](https://beautyloungebyashabi.vercel.app/)**
+## 🤝 Let's Connect
 
----
-
-## 🤝 Let’s Connect
-<p align="left">
-  <a href="www.linkedin.com/in/emmanuel-udeme"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/0xKather"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.instagram.com/the_quietdev"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
-
----
+- 📧 [Email](emmanueludeme.fe@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-udeme)
+- 🐦 [X / Twitter](https://x.com/0xKather)
+- 🌐 [Portfolio](https://quietdev.vercel.app)
