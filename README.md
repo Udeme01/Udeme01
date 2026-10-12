@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Emmanuel Udeme</h1>
+<h1 align="left">Hey there 👋, I'm Emmanuel Udeme</h1>
 
-<h3 align="center">Full-Stack Software Engineer | Payments & Fintech | Community Builder</h3>
+<h3 align="left">Full-Stack Software Engineer | Payments & Fintech | Community Builder</h3>
 
 ---
 
