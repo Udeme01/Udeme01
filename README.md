@@ -13,6 +13,7 @@ I also love **helping beginners grow**. I break down complex ideas into simple e
 ## 🚀 What I'm Working On
 
 - 💳 Going deeper into **fintech and payment systems**: webhooks, idempotency, transaction status syncing and secure verification
+- 🛠️ Growing **Genesis Lab**, a community for beginners to build while learning
 - 🔧 Expanding my backend skills (APIs, databases, security) alongside modern frontend tools
 
 ## 🏗️ What I've Built
