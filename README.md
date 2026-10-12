@@ -36,7 +36,7 @@ I also love **helping beginners grow**. I break down complex ideas into simple e
 
 ## 🤝 Let's Connect
 
-- 📧 [Email](emmanueludeme.fe@gmail.com)
+- 📧 [emmanueludeme.fe@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-udeme)
 - 🐦 [X / Twitter](https://x.com/0xKather)
 - 🌐 [Portfolio](https://quietdev.vercel.app)
