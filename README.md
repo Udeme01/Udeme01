@@ -13,7 +13,6 @@ I also love **helping beginners grow**. I break down complex ideas into simple e
 ## 🚀 What I'm Working On
 
 - 💳 Going deeper into **fintech and payment systems**: webhooks, idempotency, transaction status syncing and secure verification
-- 🛠️ Growing **Genesis Lab**, a community for beginners to build while learning
 - 🔧 Expanding my backend skills (APIs, databases, security) alongside modern frontend tools
 
 ## 🏗️ What I've Built
@@ -33,6 +32,10 @@ I also love **helping beginners grow**. I break down complex ideas into simple e
 
 - 🎓 [Ace Leadership Hub]([LINK](https://aceleadershiphub.com/)): EdTech platform with payments and RBAC
 - 🛍️ [FizzAura Luxury]([LINK](https://fizzauraluxury.com/)): e-commerce admin dashboard
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Udeme01&theme=dark&hide_border=false&border_radius=8&background=151515&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="Emmanuel's GitHub streak" />
+</p>
 
 ## 🤝 Let's Connect
 
